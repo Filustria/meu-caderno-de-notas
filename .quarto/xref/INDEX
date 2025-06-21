@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "0d4db817"
+  },
+  "intro.qmd": {
+    "intro.html": "85e8428f"
+  },
+  "summary.qmd": {
+    "summary.html": "a243cc41"
+  },
+  "references.qmd": {
+    "references.html": "566a62f2"
+  },
+  "MBE.qmd": {
+    "MBE.html": "40684206"
+  },
+  "finding_consultancies.qmd": {
+    "finding_consultancies.html": "f9c73416"
+  },
+  "research.qmd": {
+    "research.html": "59676b1c"
+  },
+  "articles.qmd": {
+    "articles.html": "223040ad"
+  }
+}

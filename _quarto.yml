@@ -1,0 +1,28 @@
+project:
+  type: book
+
+book:
+  title: ""
+  author: "Adelson Guaraci Jantsch"
+  date: ""
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - MBE.qmd
+    - finding_consultancies.qmd
+    - research.qmd
+    - articles.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
